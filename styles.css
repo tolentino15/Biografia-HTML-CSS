@@ -1,22 +1,24 @@
 body {
-  background-image:url(https://img.elo7.com.br/product/zoom/39C3DA4/painel-3d-sublimado-new-born-praia-fundo-fotografico-fundo-fotografico-de-praia.jpg);  
+  background-image:url(https://st4.depositphotos.com/3503231/30563/i/450/depositphotos_305638298-stock-photo-empty-space-wall-texture-background.jpg);  
   background-size: cover;
   background-position: center;
 } 
 
 .title{
   text-align: center;
-  text-decoration-color: gold;
+  
 }
 
 .Texto{
   text-align: center;
-  text-decoration-color: gold;
+  
 }
 
 .paragrafo{
+  text-decoration-color: ;
   text-align: center;
-  text-decoration-color:black;
+  color:green;
+  font-size: 28px;  
 }
 
 .video{
