@@ -1,8 +1,27 @@
 body {
-  background: rgb(162, 241, 155);
+  background-image:url(https://img.elo7.com.br/product/zoom/39C3DA4/painel-3d-sublimado-new-born-praia-fundo-fotografico-fundo-fotografico-de-praia.jpg);  
 } 
 
 .title{
+  text-align: center;
+  text-decoration-color: gold;
+}
+
+.Texto{
+  text-align: center;
+  text-decoration-color: gold;
+}
+
+.paragrafo{
+  text-align: center;
+  text-decoration-color:black;
+}
+
+.video{
+  text-align: center;
+}
+
+.som{
   text-align: center;
 }
 
