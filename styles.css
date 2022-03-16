@@ -1,30 +1,34 @@
 body {
-  background-image:url(https://st4.depositphotos.com/3503231/30563/i/450/depositphotos_305638298-stock-photo-empty-space-wall-texture-background.jpg);  
+  background-image:url(https://img.freepik.com/vetores-gratis/fundo-de-formas-abstratas-brancas_79603-1359.jpg?size=626&ext=jpg);  
   background-size: cover;
   background-position: center;
 } 
 
 .title{
   text-align: center;
-  color: darkslategrey;
+  color: rgb(70, 146, 80);
   font-size: 50px;
 }
 
 .Texto{
   text-align: center;
-  color: darkslateblue;
+  color: darkolivegreen;
   font-size: 40px;
 }
 
 .paragrafo{
   text-decoration-color: ;
   text-align: center;
-  color:darkslateblue;
+  color:ddarkolivegreen;
   font-size: 28px;  
 }
 
 .video{
-  text-align: center;
+  border-radius: 30%;
+}
+
+.imagem{
+border-radius: 30%;
 }
 
 .som{
@@ -33,4 +37,5 @@ body {
 
 div{
   text-align: center;
+  border-radius: 30%;
 }
